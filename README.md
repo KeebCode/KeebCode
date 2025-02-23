@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KeebCode
 - 👀 I’m interested in exploring anything
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on any I know. 
+- 🌱 Mainly C++ coder
+- 💞️ I’m looking to collaborate with anyone. 
 - 📫 How to reach me (dm) 
 
 <!---
