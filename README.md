@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KeebCode
 - 👀 I’m interested in exploring anything
 - 🌱 Mainly C++ coder
-- 💞️ I’m looking to collaborate with anyone. 
-- 📫 How to reach me (dm) 
+- 💞️ I’m looking to collaborate with anyone.  
 
 <!---
 KeebCode/KeebCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
